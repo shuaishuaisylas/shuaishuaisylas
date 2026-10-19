@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="144" viewBox="0 0 420 144" role="img" aria-labelledby="title">
+<title id="title">我是刘帅帅（sylas），一名 AI 产品经理，关注 AI 能力如何转化为有用的产品。</title>
+<style>.intro-text{clip-path:url(#reveal)}@media(prefers-reduced-motion:reduce){.intro-text{clip-path:none}}</style>
+<defs><clipPath id="reveal"><rect width="420" height="144"><animate attributeName="width" from="0" to="420" dur="1.8s" fill="freeze"/></rect></clipPath></defs>
+<g class="intro-text" fill="#f0f6fc" font-size="24" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif"><text x="0" y="34">我是刘帅帅（sylas），</text><text x="0" y="76">一名 <tspan fill="#79b8ff">AI 产品经理</tspan>，关注 AI 能力</text><text x="0" y="118">如何转化为有用的产品。</text></g>
+</svg>
